@@ -84,3 +84,12 @@ SELECT species.name, COUNT(species.name) from species INNER JOIN animals ON spec
 
 
 -------------------Audit-------------------------
+CREATE INDEX animal_ids_asc ON visits (animal_id ASC);
+explain analyze SELECT COUNT(*) FROM visits where animal_id = 4;
+-------------------previuos exection time: 1411.533 current: 0.041ms-------------------------
+
+CREATE INDEX vet_ids_asc ON visits (vet_id ASC);
+EXPLAIN ANALYZE SELECT * FROM visits where vet_id = 2;
+
+CREATE INDEX email_id ON owners (email ASC);
+EXPLAIN ANALYZE SELECT * FROM owners where email = 'owner_18327@mail.com';
