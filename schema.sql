@@ -44,3 +44,7 @@ CREATE TABLE visits (
     vet_id int REFERENCES vets(id),
     date_of_visit date NOT NULL
 );
+
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+ALTER TABLE owners ALTER COLUMN age DROP NOT NULL;

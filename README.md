@@ -99,6 +99,14 @@ Clone this repository to your desired folder:
 - Twitter: [@twitterhaliljon1](https://twitter.com/haliljon1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/juraboev-haliljon)
 
+
+
+👤 **Yetemegn Lemma**
+
+- GitHub: [GitHub](https://github.com/yetemegn-telaye)
+- Twitter: [Twitter](https://twitter.com/Yetemegn19)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yetemegn-lemma)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 FUTURE FEATURES
