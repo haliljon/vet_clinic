@@ -105,7 +105,7 @@ Clone this repository to your desired folder:
 
 - GitHub: [GitHub](https://github.com/yetemegn-telaye)
 - Twitter: [Twitter](https://twitter.com/Yetemegn19)
-- LinkedIn: [LinkedIn](linkedin.com/in/yetemegn-lemma)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yetemegn-lemma)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
